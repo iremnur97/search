@@ -1,0 +1,93 @@
+a:visited {
+    color: black;
+}
+a:hover{
+    color: black;
+}
+.img {
+    right: 40%;
+    position: absolute; 
+    top: 32%;
+}
+.search-bar {
+    height: 9px;
+    border-radius: 20px; 
+    width:360px ;
+    right: 36%; 
+    position: absolute; 
+    top: 50%; 
+    transform: translate(0, -50%);
+    padding: 10px;
+    box-shadow: none;
+    outline: none;
+    border-color: transparent;
+}
+.search {
+    border-radius: 20px; 
+    position: absolute;
+    right: 40%; 
+    left:40%; 
+    top: 55%; 
+    transform: translate(0, -50%);
+    padding: 10px;  
+    margin: auto;
+    width: 10%;
+}
+.doodle {
+    border-radius: 20px;
+    position: absolute;
+    right: 40%; 
+    left:40%; 
+    top: 60%; 
+    transform: translate(0, -50%);
+    padding: 10px;  
+    margin: auto;
+    width: 10%;
+}
+.mail {
+    font-size: 17px; 
+    border-color: transparent; 
+    position: absolute; 
+    justify-content: left;
+    right: 60%;
+    left: 1%;
+    width: 5%;
+    background-color: transparent;
+}
+.image {
+    border-radius: 11px;
+    right: 1%;
+    position: absolute;
+    background-color: transparent;
+}
+.button-text1 {
+    text-decoration: none ;
+}
+.advanced {
+    border-radius: 11px;
+    right: 9%;
+    position: absolute;
+    text-decoration: none;
+    background-color: transparent;
+}
+.button-text2 {
+    text-decoration: none;
+}
+#fa{
+    right:63%; 
+    position: absolute; 
+    top: 49%; 
+    
+}
+#bar{
+    border: 2px solid #000000;
+  height: 15px;
+  border-radius: 24px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  width: 410px;
+  position: absolute;
+  top:48%;
+  right: 35%;
+}

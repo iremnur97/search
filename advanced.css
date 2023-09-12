@@ -1,0 +1,69 @@
+.appbar{
+    border-bottom: 1px solid #ebebeb;
+}
+.appbar h3{
+  color: #d93025;
+  font-size: 20px;
+  margin-bottom: 20px;
+  margin-left: 35px;
+  margin-top: 15px;
+  font-weight: normal;
+}
+.first{
+    display: flex;
+    margin-left: 50px;
+}
+.find{
+    font-size: 16px;
+    min-width: 167px;
+    width: 16%;
+    font-weight: 500;
+    color: #333;
+    margin-left: 35px;
+}
+.label{
+    width:200px;
+    display: inline-block;
+    margin: 10px;
+    font-size: small;
+}
+.button input {
+    background-color: rgb(75,141,249,255);
+    color: white;
+    height: 30px;
+    min-width: 120px;
+    border: 1px solid #4b8df9;
+    color: #fff;
+    border-radius: 2px;
+    font-size: 11px;
+    font-weight: bold;
+    position: absolute;
+    right: 44.2%;
+}
+.to-do {
+    width: 32%;
+    min-width: 160px;
+    color: #555;
+    font-size: 11px;
+    padding-left: 30px;
+  }
+  
+  span {
+    color: #666;
+    font-family: monospace;
+    font-size: 11px;
+    white-space: pre;
+  }
+  .first .search-bar input {
+    border-radius: 1px;
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+    font-size: 13px;
+    height: 25px;
+    padding: 1px 8px;
+    width: 100%;
+  }
+  .first .search-bar {
+    min-width: 167px;
+    width: 37%;
+  }
